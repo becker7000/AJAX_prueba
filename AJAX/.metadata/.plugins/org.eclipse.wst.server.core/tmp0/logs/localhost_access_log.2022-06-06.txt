@@ -64,3 +64,14 @@
 0:0:0:0:0:0:0:1 - - [06/Jun/2022:11:46:44 -0500] "GET /XMLHttpRequest/saludo.jsp HTTP/1.1" 200 189
 0:0:0:0:0:0:0:1 - - [06/Jun/2022:11:48:47 -0500] "GET /XMLHttpRequest/Hola.jsp HTTP/1.1" 200 975
 0:0:0:0:0:0:0:1 - - [06/Jun/2022:11:50:00 -0500] "GET /XMLHttpRequest/Hola.jsp HTTP/1.1" 200 977
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:11:59:56 -0500] "GET /XMLHttpRequest/Hola.jsp HTTP/1.1" 200 977
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:00:49 -0500] "GET /XMLHttpRequest/Hola.jsp HTTP/1.1" 200 636
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:00:55 -0500] "GET /XMLHttpRequest/saludo.jsp HTTP/1.1" 200 189
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:01:04 -0500] "GET /XMLHttpRequest/saludo.jsp HTTP/1.1" 200 189
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:03:08 -0500] "GET /XMLHttpRequest/Hola.jsp HTTP/1.1" 200 596
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:03:10 -0500] "GET /XMLHttpRequest/saludo.jsp HTTP/1.1" 200 182
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:04:46 -0500] "GET /XMLHttpRequest/Hola.jsp HTTP/1.1" 200 606
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:04:51 -0500] "GET /XMLHttpRequest/saludo.jsp HTTP/1.1" 200 182
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:04:52 -0500] "GET /XMLHttpRequest/saludo.jsp HTTP/1.1" 200 182
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:04:54 -0500] "GET /XMLHttpRequest/Hola.jsp HTTP/1.1" 200 606
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:12:04:56 -0500] "GET /XMLHttpRequest/saludo.jsp HTTP/1.1" 200 182
