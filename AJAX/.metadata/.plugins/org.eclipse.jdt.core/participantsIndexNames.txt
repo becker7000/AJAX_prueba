@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\Erick\Documents\Ajax para desarroladores Java\otros\recursos para dar la clase\JSP\AJAX\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\94225461.index
-\XMLHttpRequest\src\main\java

@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	
+	<h3>Probando AJAX</h3>
+	
+	<button id="button" onclick="peticion();">Mostrar</button>
+	
+	<p id=mostrar></p>
+	
+</body>
+</html>
