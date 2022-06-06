@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Erick\Documents\Ajax para desarroladores Java\otros\recursos para dar la clase\JSP\AJAX\.metadata\.plugins\org.eclipse.jdt.core
-1012213570.index
-2367783050.index
-1865797976.index
-2942732881.index
